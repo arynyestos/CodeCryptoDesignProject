@@ -30,22 +30,22 @@ To use this project, clone the repository to your local machine and follow the i
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/arynyestos/CodeCryptoDesignProject.git
 
 2. Navigate to the project directory:
 
    ```bash
-    cd project-name
+    cd CodeCryptoDesignProject
 
 3. Install dependencies:
 
    ```bash
-    npm install
+    yarn
 
 4. Run the project:
 
    ```bash
-    npm start
+    yarn dev
 
 This command will start the development server and open the project in your default browser.
 
