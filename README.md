@@ -56,3 +56,6 @@ This command will start the development server and open the project in your defa
 ## Demo
 
 Below you can see a short video showing the page:
+
+https://github.com/arynyestos/CodeCryptoDesignProject/assets/33223441/778169f4-c6f1-4de8-8c18-777df4a8de65
+
