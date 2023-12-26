@@ -1,4 +1,4 @@
-## Design project
+# Design project
 
 This React project showcases a dynamic webpage featuring a carousel, company details, logo, social links, and pricing options. Its purpose within the CodeCrypto course was to have some insights into the aesthetic part of web design.
 
